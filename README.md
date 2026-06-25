@@ -1,5 +1,31 @@
 # Deepfake Detector using EfficientNetV2-S
 
+---
+title: Deepfake Detector
+emoji: 🤖
+colorFrom: blue
+colorTo: red
+sdk: gradio
+sdk_version: "5.34.2"
+python_version: "3.11"
+app_file: app.py
+pinned: false
+---
+
+# Deepfake Detector using EfficientNetV2-S
+
+AI-powered Deepfake Detection System built with PyTorch, EfficientNetV2-S, and Gradio.
+
+## Features
+
+- Image Deepfake Detection
+- Batch Prediction
+- Video Prediction
+- Webcam Detection
+- Grad-CAM Visualization
+- PDF Report Generation
+- EfficientNetV2-S Model
+
 ## Overview
 
 This project detects whether an image is REAL or FAKE using a deep learning model based on EfficientNetV2-S.
