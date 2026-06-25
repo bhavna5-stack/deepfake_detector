@@ -42,7 +42,7 @@ DEVICE = "cuda" if torch.cuda.is_available() else "cpu"
 # =========================
 # MODEL FILES
 # =========================
-BEST_MODEL = MODEL_DIR / "best_model.pth"
+BEST_MODEL = BASE_DIR / "best_model.pth"
 
 LAST_CHECKPOINT = CHECKPOINT_DIR / "last_checkpoint.pth"
 
