@@ -1,0 +1,41 @@
+# =========================
+# Python
+# =========================
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Virtual Environment
+venv/
+env/
+
+# VS Code
+.vscode/
+
+# PyCharm
+.idea/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Model Files
+*.pth
+*.pt
+*.ckpt
+*.onnx
+
+# Dataset
+train/
+test/
+
+# Outputs
+outputs/
+
+# Temporary
+*.log
+*.tmp
+
+# OS Files
+.DS_Store
+Thumbs.db
+desktop.ini

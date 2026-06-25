@@ -1,0 +1,2 @@
+image,Prediction,Confidence,Probability,timestamp
+".gradio\flagged\image\6e70c0bcaaf34951e70b\Image Jun 25,.png",REAL,94.18 %,"{""label"": ""REAL"", ""confidences"": [{""label"": ""REAL"", ""confidence"": 94.18}, {""label"": ""FAKE"", ""confidence"": 5.82}]}",2026-06-25 23:19:29.696077
