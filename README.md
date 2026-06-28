@@ -131,7 +131,7 @@ python webcam.py
 
 ## Web Application
 
-https://huggingface.co/spaces/Tanujthakur-5/deepfake-detector
+https://huggingface.co/spaces/bhavna-5/deepfake-detector
 
 ---
 
